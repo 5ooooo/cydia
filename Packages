@@ -1,18 +1,3 @@
-Package: wallpaperloader
-Name: WallpaperLoader
-Architecture: iphoneos-arm
-Depiction: 
-Maintainer: Skitty
-Author: Skitty
-Version: 1.0
-Section: Tweaks
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/wallpaperloader_1.0_iphoneos-arm.deb
-Size: 168
-MD5sum: 
-Sponsor: 
-Description: Add more default wallpapers!
-
 Package: io.github.5ooooo.10swp
 Name: iPhone XS Live Wallpapers
 Architecture: iphoneos-arm
