@@ -1,7 +1,7 @@
 Package: wallpaperloader
 Name: WallpaperLoader
 Architecture: iphoneos-arm
-Depiction: https://skitty.xyz/repo/depictions/?s=wallpaperloader
+Depiction: 
 Maintainer: Skitty
 Author: Skitty
 Version: 1.0
@@ -27,3 +27,4 @@ Size:
 MD5sum: 
 Sponsor: 
 Description: The iPhone XS live wallpapers.
+
