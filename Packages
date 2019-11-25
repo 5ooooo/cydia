@@ -8,7 +8,9 @@ Version: 1.0
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/wallpaperloader_1.0_iphoneos-arm.deb
-Size: 168
+Size: 11376
+MD5sum: 4FC4AE14E7A45D9FA67388470E46FA22
+Sponsor: 
 Description: Add more default wallpapers!
 
 Package: io.github.5ooooo.10swp
@@ -21,5 +23,8 @@ Version: 1.0
 Section: Wallpaper
 Depends: mobilesubstrate, wallpaperloader
 Filename: ./debs/io.github.5ooooo.10swp_1.0_iphoneos-arm.deb
+Size: 18349346
+MD5sum: 9B9DA64E5D0B51E0DFCB78F03F1109B7
+Sponsor: 
 Description: The iPhone XS live wallpapers.
 
