@@ -1,4 +1,17 @@
-Package: xyz.skitty.11prowp
+Package: wallpaperloader
+Name: WallpaperLoader
+Depends: mobilesubstrate, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Description: Add more default wallpapers!
+Depiction: https://skitty.xyz/repo/depictions/?p=wallpaperloader
+SileoDepiction: https://skitty.xyz/repo/depictions/?s=wallpaperloader
+Maintainer: Skitty
+Author: Skitty
+Section: Tweaks
+Version: 1.0
+Installed-Size: 168
+
+Package: io.github.5ooooo.10swp
 Name: iPhone XS Live Wallpapers
 Depends: mobilesubstrate, wallpaperloader
 Architecture: iphoneos-arm
