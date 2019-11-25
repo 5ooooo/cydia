@@ -1,2 +1,1 @@
-# 5ooooo
- cHickEn's Cydia Repo
+# cHickEn's Repo
