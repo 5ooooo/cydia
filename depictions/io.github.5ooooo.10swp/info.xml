@@ -16,6 +16,11 @@
 		<package>wallpaperloader</package>
 	</dependencies>
 	<descriptionlist>
+		<description>iPhone XS 의 기본 Live 배경화면 입니다.</description>
+		<description><![CDATA[WallpaperLoader 트윅이 설치되어있어야 합니다.
+Skitty의 저장소를 추가하고 WallpaperLoader를 먼저 설치해 주세요.
+소스 링크 및 주소를 페이지 하단을 확인해 주세요.]]>
+		</description>
 		<description>The iPhone XS live wallpapers.</description>
 		<description><![CDATA[Depends on WallpaperLoader tweak.
 Install WallpaperLoader after adding Skitty's repository.
