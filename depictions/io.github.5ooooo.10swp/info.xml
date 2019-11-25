@@ -18,9 +18,9 @@
 	<descriptionlist>
 		<description>The iPhone XS live wallpapers.</description>
 		<description><![CDATA[Depends on WallpaperLoader tweak.
-Install WallpaperLoader after adding Skitty's repository]]>
+Install WallpaperLoader after adding Skitty's repository.
+Please check the link at the bottom.]]>
 		</description>
-		<description>https://skitty.xyz/repo/</description>
 	</descriptionlist>
 	<!--
 	<screenshots>
@@ -37,13 +37,13 @@ Install WallpaperLoader after adding Skitty's repository]]>
 	<changelog>
 		<change>Initial Release</change>
 	</changelog>
-	<!--
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
+			<name>Skitty's Repo</name>
+			<url>https://skitty.xyz/repo/</url>
+			<!--
 			<iconclass>fa fa-reddit</iconclass>
+			-->
 		</link>
 	</links>
-	-->
 </package>
